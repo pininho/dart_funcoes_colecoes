@@ -1,2 +1,1 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+# Projeto referente ao estudo do curso Dart: Funções e Coleções - Academia do Flutter
